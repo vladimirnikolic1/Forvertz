@@ -1,6 +1,6 @@
 # Forvertz
 
-![Image](documentation/image0.png)
+![Image](documentation/image1.png)
 
 The Forward (Yiddish: פֿאָרווערטס, romanized: Forverts), formerly known as The Jewish Daily Forward, is an American news media organization for a Jewish American audience.
 
@@ -12,5 +12,5 @@ Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 400 | Regular
 
-![Image](documentation/image9.png)
+![Image](documentation/image2.png)
 
