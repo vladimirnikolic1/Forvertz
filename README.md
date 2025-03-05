@@ -2,6 +2,8 @@
 
 ![Image](documentation/image1.png)
 
+![Image](documentation/forvertz.png)
+
 The Forward (Yiddish: פֿאָרווערטס, romanized: Forverts), formerly known as The Jewish Daily Forward, is an American news media organization for a Jewish American audience.
 
 ## Variable Font Axe
