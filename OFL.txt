@@ -1,4 +1,4 @@
-Copyright 2018 Forvertz Project Authors (https://github.com/vladimirnikolic1/Trackball/) 
+Copyright 2018 The Forvertz Project Authors (https://github.com/vladimirnikolic1/Forvertz/) 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
