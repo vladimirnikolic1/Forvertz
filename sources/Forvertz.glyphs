@@ -1,8 +1,8 @@
 {
-copyright = "Copyright (c) 2018 by Vladimir Nikolic. All rights reserved.";
+copyright = "Copyright 2018 The Forvertz Project Authors";
 designer = "Vladimir Nikolic";
-designerURL = "http://www.coroflot.com/vladimirnikolic";
-familyName = Forvertz;
+designerURL = "https://github.com/vladimirnikolic1/Forvertz";
+familyName = Forvertz Regular;
 customParameters = (
 {
 name = glyphOrder;
